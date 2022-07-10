@@ -5,10 +5,12 @@ import { Link, useLocation } from "react-router-dom";
 export default function TopNav() {
   // This shifts the UI so the selected item is always first
   const location = useLocation(); // get the current path of the webpage
-  const pageName = location.pathname.slice(1).toLocaleLowerCase(); // gets the current page name
+  let pageName = location.pathname.slice(1).toLocaleLowerCase(); // gets the current page name
+  pageName = pageName.split("/")[0];
   const lowercaseNavLinks = links.navLinks.map((obj) =>
     obj.toLocaleLowerCase()
   );
+  console.log(pageName);
   const removeId = lowercaseNavLinks.indexOf(pageName);
   lowercaseNavLinks.splice(removeId, 1); // remove the current item from the list
   lowercaseNavLinks.unshift(links.navLinks[removeId]);

@@ -3,6 +3,10 @@ import "./App.css";
 import { Routes, Route, Link } from "react-router-dom";
 import Home from "./Pages/Home";
 import Projects from "./Pages/Projects";
+import Project from "./Pages/Project";
+import Fun from "./Pages/Fun";
+import About from "./Pages/About";
+import Ideas from "./Pages/Ideas";
 
 function App() {
   return (
@@ -11,9 +15,10 @@ function App() {
         <Route path="/Home" element={<Home />} />
         <Route path="/" element={<Home />} />
         <Route path="/projects" element={<Projects />} />
-        <Route path="/ideas" element={<Projects />} />
-        <Route path="/about" element={<Projects />} />
-        <Route path="/fun" element={<Projects />} />
+        <Route path="/projects/:projectTitle" element={<Project />} />
+        <Route path="/ideas" element={<Ideas />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/fun" element={<Fun />} />
       </Routes>
     </div>
   );
