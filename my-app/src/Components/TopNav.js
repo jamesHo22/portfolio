@@ -63,12 +63,8 @@ export default function TopNav() {
         }
         return (
           <div>
-            <nav>
-              <Link
-                ref={myRef}
-                to={path}
-                className=" hover:underline capitalize"
-              >
+            <nav className="transition hover:scale-[2] hover:font-bold">
+              <Link ref={myRef} to={path} className="capitalize">
                 {String(obj)}
               </Link>
             </nav>
