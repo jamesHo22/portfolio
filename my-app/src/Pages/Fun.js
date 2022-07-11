@@ -1,5 +1,7 @@
 import React from "react";
 import TopNav from "../Components/TopNav";
+import ItemCard from "../Components/ItemCard";
+import filler from "../Filler/filler.json";
 
 export default function Fun() {
   return (
