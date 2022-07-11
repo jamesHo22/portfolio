@@ -12,8 +12,8 @@ export default function TopNav() {
   );
   console.log(pageName);
   const removeId = lowercaseNavLinks.indexOf(pageName);
-  lowercaseNavLinks.splice(removeId, 1); // remove the current item from the list
-  lowercaseNavLinks.unshift(links.navLinks[removeId]);
+  //   lowercaseNavLinks.splice(removeId, 1); // remove the current item from the list
+  //   lowercaseNavLinks.unshift(links.navLinks[removeId]);
 
   return (
     <div className="flex flex-row text-sm gap-8 items-baseline">
