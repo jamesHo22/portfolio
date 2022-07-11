@@ -2,7 +2,7 @@ import React from "react";
 import TopNav from "../Components/TopNav";
 import ItemFullView from "../Components/ItemFullView";
 
-export default function Project() {
+export default function ItemPage() {
   console.log("rendered full article");
   return (
     // <div>hello</div>
