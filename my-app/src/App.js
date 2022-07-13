@@ -7,8 +7,12 @@ import ItemPage from "./Pages/ItemPage";
 import Fun from "./Pages/Fun";
 import About from "./Pages/About";
 import Ideas from "./Pages/Ideas";
+import SignIn from "./Pages/SignIn";
+import { useState } from "react";
+import NewArticle from "./Pages/NewArticle";
 
 function App() {
+  const [isAuth, setIsAuth] = useState(false);
   return (
     <div>
       <Routes>
@@ -20,6 +24,11 @@ function App() {
         <Route path="/ideas/:ideaTitle" element={<ItemPage />} />
         <Route path="/about" element={<About />} />
         <Route path="/fun" element={<Fun />} />
+        <Route path="/new-article" element={<NewArticle />} />
+        <Route
+          path="/secret-door"
+          element={<SignIn setIsAuth={setIsAuth} isAuth={isAuth} />}
+        />
       </Routes>
     </div>
   );

@@ -20,10 +20,8 @@ export default function Home() {
           {links.navLinks.map((obj) => {
             let path = `/${obj.toLowerCase()}`;
             return (
-              <nav>
-                <Link to={path} className=" hover:underline">
-                  {String(obj)}
-                </Link>
+              <nav className="transition hover:scale-150 hover:font-bold w-0">
+                <Link to={path}>{String(obj)}</Link>
               </nav>
             );
           })}
