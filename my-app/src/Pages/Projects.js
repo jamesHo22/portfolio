@@ -10,10 +10,9 @@ export default function Projects() {
   const navigate = useNavigate();
   return (
     <div className="h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-2/3 my-20 flex flex-col gap-20">
+      <div className="w-4/5 lg:w-2/3 my-20 flex flex-col gap-20">
         <TopNav />
-        <div className="flex flex-col gap-10">
-          {/* TODO: populate this from markdown */}
+        <div className="flex flex-col gap-10 items-center">
           {filler.experience.map((obj) => {
             console.log(obj);
             return <ItemCard content={obj} />;

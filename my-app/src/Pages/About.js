@@ -21,11 +21,11 @@ export default function About() {
 
   return (
     <div className="h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-2/3 my-20 flex flex-col gap-20">
+      <div className="w-4/5 lg:w-2/3 my-20">
         <TopNav />
       </div>
 
-      <div className="prose mb-16 mx-16">
+      <div className="prose mb-16 mx-8 lg:mx-16">
         <ReactMarkdown>{content}</ReactMarkdown>
       </div>
     </div>

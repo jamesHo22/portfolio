@@ -31,8 +31,8 @@ export default function FunCard(props) {
         src={props.content.full_article.image_src}
         alt="Logo"
       />
-      <div className="m-8 flex flex-col text-ellipsis overflow-hidden gap-4">
-        <h1 className="text-3xl font-bold">
+      <div className="m-4 flex flex-col text-ellipsis overflow-hidden gap-4">
+        <h1 className="text-2xl xl:text-3xl font-bold">
           {props.content.full_article.title}
         </h1>
         <p className=" text-sm">{props.content.full_article.body}</p>

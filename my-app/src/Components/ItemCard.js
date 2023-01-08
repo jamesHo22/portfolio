@@ -9,7 +9,7 @@ export default function ItemCard(props) {
 
   return (
     <div
-      className="bg-white rounded-lg transition hover:shadow-lg hover:shadow-violet-500/50 h-48 flex flex-row cursor-pointer	"
+      className="bg-white rounded-lg transition hover:shadow-lg hover:shadow-violet-500/50 h-fit lg:h-48 flex flex-col items-center lg:flex-row cursor-pointer"
       onClick={() => {
         // Navigate to the correct path
         // navigate(
@@ -18,12 +18,12 @@ export default function ItemCard(props) {
       }}
     >
       <img
-        className=" object-cover w-48 h-48 rounded-l-lg"
+        className="object-cover w-auto h-auto lg:w-48 lg:h-48 rounded-md lg:rounded-lg"
         src={props.content.full_article.image_src}
         alt="Logo"
       />
-      <div className="mx-8 my-4 flex flex-col text-ellipsis overflow-hidden gap-4">
-        <h1 className="text-3xl font-bold">
+      <div className="mx-4 lg:mx-8 my-4 flex flex-col text-ellipsis overflow-hidden gap-4">
+        <h1 className="text-2xl xl:text-3xl font-bold">
           {props.content.full_article.title}
         </h1>
         {/* Check if the tags field exists */}
