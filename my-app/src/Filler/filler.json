@@ -22,33 +22,80 @@
       }
     }
   ],
-  "projects": [
+  "experience": [
     {
       "full_article": {
-        "title": "Generative Design of Electromechanical Actuators",
+        "tags": ["Full time"],
+        "title": "Tesla - Mechanical Engineer",
         "date_created": "July 10th 2022",
-        "image_src": "https://www.bostondynamics.com/sites/default/files/styles/advanced_technology/public/2020-10/spot-eap2x.png?itok=rNmWulKy",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_src": "https://www.graphicdesignforum.com/uploads/default/original/2X/b/b08e4bc28882a79951300637b7ead73d3ff9696e.png",
+        "body": "Led development of a safety critical test rig to validate vehicle underside impact performance.\nReduced test times by 80%, increased accuracy, and freed up time of one technician and one engineer.",
+        "description": "pepe ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+
+    {
+      "full_article": {
+        "tags": ["Venture"],
+        "title": "YDot - Founder and Software Engineer",
+        "date_created": "July 10th 2022",
+        "image_src": "https://i.pinimg.com/564x/3c/78/52/3c7852365b30c91c7da928114bf74d5f.jpg",
+        "body": "YDot links all related data to a piece of hardware, starting with test engineering data. With YDot, engineers can leverage a single source of truth to make better and faster decisions.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
 
     {
       "full_article": {
-        "title": "Dragon parachute analysis",
+        "tags": ["Internship"],
+        "title": "Zoox - Mechanical Engineer",
         "date_created": "July 10th 2022",
-        "image_src": "https://cdn.vox-cdn.com/thumbor/hin1OBS-Lgrt_bld7QOxozSXSnk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69053543/Exu93_nU8AAMAiC.0.jpg",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_src": "https://cdn.vox-cdn.com/thumbor/RiK5hHPuS9XSsi4GvaSfms4KFeE=/0x0:2800x1867/1400x1400/filters:focal(1400x934:1401x935)/cdn.vox-cdn.com/uploads/chorus_asset/file/22168905/zoox_robotaxi_0007.jpg",
+        "body": "Improved performance of self driving car GPUs with optimized liquid cooling block design. \nEliminated dependence on risky supplier and deepened company knowledge on compute performance under different loads.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
 
     {
       "full_article": {
-        "title": "Dragon parachute analysis",
+        "tags": ["Internship"],
+        "title": "Hermeus - Mechanical Engineer",
         "date_created": "July 10th 2022",
-        "image_src": "https://cdn.vox-cdn.com/thumbor/hin1OBS-Lgrt_bld7QOxozSXSnk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69053543/Exu93_nU8AAMAiC.0.jpg",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_src": "https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/b74d9c99-6267-470e-bfd0-e81fa2d8bc76/51359809295_f20f71d92f_o.jpg",
+        "body": "Responsible for development of in house landing gear test equipment from conception to physical product. Saved company resources and increased design iteration cycle by eliminating dependence on external test facility.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+
+    {
+      "full_article": {
+        "tags": ["Internship"],
+        "title": "Uber ATG - CAE Mechanical Engineer",
+        "date_created": "July 10th 2022",
+        "image_src": "https://i.insider.com/5fce8693037cbd00186144fd?width=1136&format=jpeg",
+        "body": "Responsible for validating reliability and crash safety of autonomy sensor pods through thermal and structural simulations in FEA.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+
+    {
+      "full_article": {
+        "tags": ["Internship"],
+        "title": "Form Energy - Mechanical Engineer",
+        "date_created": "July 10th 2022",
+        "image_src": "https://image.cnbcfm.com/api/v1/image/106931066-1629472634916-Form_Energy_Battery_System_Rendering.jpeg?v=1629472723",
+        "body": "Identified bottlenecks in data analysis workflow then worked with scientists and engineers to create a central test database. Sped up workflow by 50%, allowing stakeholders to make better decisions faster.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+
+    {
+      "full_article": {
+        "tags": ["Collegiate team"],
+        "title": "Olin Electric Motorsports - Battery Engineer",
+        "date_created": "July 10th 2022",
+        "image_src": "https://cdn.myportfolio.com/4dfc7722-5604-4718-9f53-112c34422ce0/04968398-3fb5-4ceb-8f73-feb27e36aa60_rw_3840.jpg?h=fdcb325096ef749ae35ca0ab85d0ebad",
+        "body": "Expanded team's toolset and knowledge in thermal analysis and battery pack design. Mentored new team members, teaching them numerical and analytical heat transfer methods.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     }

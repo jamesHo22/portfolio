@@ -18,17 +18,14 @@ function App() {
       <Routes>
         <Route path="/Home" element={<Home />} />
         <Route path="/" element={<Home />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/projects/:projectTitle" element={<ItemPage />} />
+        <Route path="/experience" element={<Projects />} />
+        <Route path="/experience/:projectTitle" element={<ItemPage />} />
         <Route path="/ideas" element={<Ideas />} />
         <Route path="/ideas/:ideaTitle" element={<ItemPage />} />
         <Route path="/about" element={<About />} />
         <Route path="/fun" element={<Fun />} />
         <Route path="/new-article" element={<NewArticle />} />
-        <Route
-          path="/secret-door"
-          element={<SignIn setIsAuth={setIsAuth} isAuth={isAuth} />}
-        />
+        <Route path="/resume" />
       </Routes>
     </div>
   );

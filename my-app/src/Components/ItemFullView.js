@@ -1,7 +1,5 @@
 import React, { useState } from "react";
 import filler from "../Filler/filler.json";
-import ReactQuill from "react-quill"; // ES6
-import "react-quill/dist/quill.bubble.css";
 
 export default function ItemFullView() {
   const [title, setTitle] = useState("");
@@ -34,9 +32,6 @@ export default function ItemFullView() {
 
           <p className=" text-sm">Aug 8 2022</p>
         </div>
-      </div>
-      <div className="flex flex-col gap-6">
-        <ReactQuill theme="bubble" value={"hello"} onChange={null} />
       </div>
     </div>
   );
