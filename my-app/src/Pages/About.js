@@ -25,7 +25,7 @@ export default function About() {
         <TopNav />
       </div>
 
-      <div className="prose">
+      <div className="prose mb-16 mx-16">
         <ReactMarkdown>{content}</ReactMarkdown>
       </div>
     </div>
