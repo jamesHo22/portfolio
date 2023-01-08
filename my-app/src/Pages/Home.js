@@ -16,11 +16,11 @@ export default function Home() {
           />
         </div>
         <div className=" italic text-slate-500">
-          <p>Comfortable across disciplines</p>
+          <p>Effective across disciplines</p>
           <p>Depth in mechanical engineering</p>
         </div>
 
-        <div className="flex flex-col text-sm gap-2">
+        <div className="flex flex-col text gap-2">
           {links.navLinks.map((obj) => {
             let path = `/${obj.toLowerCase()}`;
             return (
