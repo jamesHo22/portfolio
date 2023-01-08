@@ -17,7 +17,7 @@ export default function Home() {
         </div>
         <div className=" italic text-slate-500">
           <p>Comfortable across disciplines</p>
-          <p>A focus in mechanical engineering</p>
+          <p>Depth in mechanical engineering</p>
         </div>
 
         <div className="flex flex-col text-sm gap-2">
