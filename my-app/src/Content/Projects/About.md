@@ -7,9 +7,8 @@ I dive deep into problems and find joy in realizing solutions.
 Not everything is an engineering problem.
 
 ## "Let's try it"
-Failing + learning > ! trying
 
-## Ok, this is getting cringey
-I'm just someone who has always found joy in building. As a child, I would spend hours designing lego vending machines, constructing contraptions around the house, and building model planes. The feeling and satisfaction of seeing your ideas materialize is what inspires me to continue learning and building. 
+Failing and learning is better than not trying.
 
- 
+## Ok, enough marketing speak
+I'm just some one who has always been fascinated by what technology can enable. I remember thinking to myself after watching Iron Man in 2008 that I wanted to solve problems using technology (and obviously become a superhero). With the support of a few great teachers, my peers, and my parents, I began digging into the field of engineering. Fast forward to present day, I am still digging. Now my interests have widened (check out the "Fun" section) and I've learned more about the impact I want my work to have. If you are working on a technology that, if solved, would massively benefit everyone, let's get in touch. 

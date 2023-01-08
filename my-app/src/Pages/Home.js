@@ -6,7 +6,7 @@ import TypeAnimation from "react-type-animation";
 export default function Home() {
   return (
     <div className="h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-4/5 md:w-2/3 lg:w-3/5 xl:w-1/3 mt-40 flex flex-col gap-12">
+      <div className="w-4/5 md:w-2/3 lg:w-3/5 mt-40 flex flex-col gap-12 xl:w-auto xl:h-auto 2xl:w-auto">
         <div className="text-5xl md:text-7xl lg:text-7xl font-bold">
           <TypeAnimation
             cursor={true}
@@ -33,7 +33,6 @@ export default function Home() {
 
         <div className=" text-sm text-slate-500">
           <p className=" underline">8.james.ho@gmail.com</p>
-          <p>781-540-8853</p>
         </div>
       </div>
     </div>
