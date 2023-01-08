@@ -12,9 +12,9 @@ export default function ItemCard(props) {
       className="bg-white rounded-lg transition hover:shadow-lg hover:shadow-violet-500/50 h-48 flex flex-row cursor-pointer	"
       onClick={() => {
         // Navigate to the correct path
-        navigate(
-          `${location.pathname}/${String(props.content.full_article.title)}`
-        );
+        // navigate(
+        //   `${location.pathname}/${String(props.content.full_article.title)}`
+        // );
       }}
     >
       <img
