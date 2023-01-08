@@ -16,14 +16,17 @@ export default function TopNav() {
   //   lowercaseNavLinks.unshift(links.navLinks[removeId]);
 
   return (
-    <div className="flex flex-row text-sm gap-8 items-baseline transition">
+    <div className="flex flex-row text-sm gap-8 items-baseline transition overflow-x-scroll overflow-y-hidden">
       {lowercaseNavLinks.map((obj) => {
         let path = `/${obj.toLowerCase()}`;
         let currentNavItem = obj.toLocaleLowerCase();
         if (currentNavItem == pageName) {
           return (
             <nav>
-              <Link to={path} className="text-7xl font-bold capitalize">
+              <Link
+                to={path}
+                className="text-5xl lg:text-7xl font-bold capitalize"
+              >
                 {String(obj)}
               </Link>
             </nav>

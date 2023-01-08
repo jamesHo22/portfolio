@@ -6,8 +6,8 @@ import TypeAnimation from "react-type-animation";
 export default function Home() {
   return (
     <div className="h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-1/3 mt-40 flex flex-col gap-12">
-        <div className="text-7xl font-bold">
+      <div className="w-4/5 md:w-2/3 lg:w-3/5 xl:w-1/3 mt-40 flex flex-col gap-12">
+        <div className="text-5xl md:text-7xl lg:text-7xl font-bold">
           <TypeAnimation
             cursor={true}
             sequence={["JAMES HO"]}
