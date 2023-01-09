@@ -19,18 +19,22 @@ export default function FunCard(props) {
   }, []);
   return (
     <div
-      className="bg-white rounded-lg hover:shadow h-full flex flex-col cursor-pointer	"
+      className="bg-white rounded-lg transition hover:shadow-lg hover:shadow-slate-500/50 h-full flex flex-col cursor-pointer	"
       onClick={() => {
         // Navigate to the correct path
       }}
     >
       <Confetti height={fullHeight} numberOfPieces={show} />
+      {props.content.full_article?.image_src ? (
+        <img
+          className=" object-cover w-full h-full rounded-t-lg"
+          src={props.content.full_article.image_src}
+          alt="Logo"
+        />
+      ) : (
+        <div />
+      )}
 
-      <img
-        className=" object-cover w-full h-96 rounded-t-lg"
-        src={props.content.full_article.image_src}
-        alt="Logo"
-      />
       <div className="m-4 flex flex-col text-ellipsis overflow-hidden gap-4">
         <h1 className="text-2xl xl:text-3xl font-bold">
           {props.content.full_article.title}

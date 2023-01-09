@@ -2,7 +2,7 @@
   "ideas": [
     {
       "full_article": {
-        "title": "The future is green and autonomous",
+        "title": "In the works",
         "date_created": "July 10th 2022",
         "image_src": "https://images.theconversation.com/files/446778/original/file-20220216-13-f3zlzq.jpg?ixlib=rb-1.1.0&rect=65%2C14%2C2371%2C1674&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
         "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -16,8 +16,28 @@
       "full_article": {
         "title": "Mountain biking",
         "date_created": "July 10th 2022",
-        "image_src": "https://dam-assets.vailresorts.com/is/image/vailresorts/bike_get_your_pass_600x360?resMode=sharp2&w=600&h=360&wid=392&fit=constrain,1&dpr=on,2.625",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_src": "https://lh3.googleusercontent.com/Rn-i_O0AwD5jceb04jAM3BsLbexmi3anifru6TA7wkXucN_E1v9A9B1g_JT7N8FfV6p0pGrAi0BQpmuM5gNdDL4QCqJQx-bbHr-6USuUj4_YIxNkIXFt-63gedurgSbXhXtENgzq9bRYH8pwGW-_iMo8pTqcbe0Vu5vBJ0czz6XFKPxNe2WNSYE45CrmHLBCGl1uFhE8kypOUBdVjPc56K39yPYwy9rGAzbFqOlF6ivTAfvsqUJw842esaZqimnu1JN3ROm0FdgdjMf4lNMT0yZCONjviAwv7hMJ7igcgN-qXMrtkAKWa6_G7oElsTSfDKTuidKDec9cXOP9KVA_ByXvnCR9A877w4ZbqJMU5LqSbJPSqLdGBVaRXuzOxH2PpZ6G2n6dDLojxPtmIIpPjVjosrHPqGe66UqfcS_2UapgaF3ord_X_kTDCE-iOC62JLNrS2UI8FxpN7MmLr0mkVJu226AULWXQUkPQcHIq-8BoJxLuaEpNeriYMb3cuNI1hWydmxJBrXn90aerRyhTnvI0PzPplKp-CX-d_uAji8K7Dljp6R7QwMAdgfmuUWMujy0SAJeqCQmdg2km4W9IOfw1sxu21vIXh2zriHJKkIQE0AGURnhHFLQuKi75I7IgqoVHhpKtqoZyD5Li4Kg6zC-krCgoQ-b7Yi9xhG62JoIWdWdGKnkHHGAgQIejhGhpv0knr_G-IP_CsIwG_6GCxyOBgchYWyM7sstv5UzWF5tJP57F-U7D-BcYryuZW3dd2hGxmFgCYCHTSBPFayvatp0_7O5LyU1avvU_GkH5WWQ15_ZnkBl4pxpSeIaa45moySMugBmfiObkE0lIBCRggWZcUmyK1SixMzg4Hz33aLYqdmronQMjCKSRJl6in2lN9LrwS9qziReuMLA4G5vX751fJudMJDzgVXArBONcvqbY2TG=w2507-h1075-no",
+        "body": "I was lucky to grow up in British Columbia - one of the best places for mountain biking. Now I am exploring what the Bay area has to offer when it comes to knarly decents.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+
+    {
+      "full_article": {
+        "title": "Playing trombone",
+        "date_created": "July 10th 2022",
+        "image_src": "",
+        "body": "Both my parents are professional musicians. As a result, I was exposed to classical music at an early age. I played violin for 10 years before I picked up the trombone. During all 5 years of high school, I played in the jazz band. We went on multiple trips and competed in various competitons. I now casually play with a group of friends and am exploring different kinds of music!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+
+    {
+      "full_article": {
+        "title": "Reading about economics, philosophy, and sci-fi",
+        "date_created": "July 10th 2022",
+        "image_src": "",
+        "body": "I am currently interested in economics, philosophy, and science fiction. The most impactful book I've read recently is 'The Beginning of Infinity' by David Deutsch.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     }

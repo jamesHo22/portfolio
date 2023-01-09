@@ -9,7 +9,7 @@ export default function ItemCard(props) {
 
   return (
     <div
-      className="bg-white rounded-lg transition hover:shadow-lg hover:shadow-violet-500/50 h-fit lg:h-48 flex flex-col items-center lg:flex-row cursor-pointer"
+      className="bg-white rounded-lg transition hover:shadow-lg hover:shadow-slate-500/50 h-fit lg:h-48 flex flex-col items-center lg:flex-row cursor-pointer"
       onClick={() => {
         // Navigate to the correct path
         // navigate(
