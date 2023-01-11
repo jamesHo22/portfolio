@@ -16,8 +16,18 @@
       "full_article": {
         "title": "Mountain biking",
         "date_created": "July 10th 2022",
-        "image_src": "https://lh3.googleusercontent.com/Rn-i_O0AwD5jceb04jAM3BsLbexmi3anifru6TA7wkXucN_E1v9A9B1g_JT7N8FfV6p0pGrAi0BQpmuM5gNdDL4QCqJQx-bbHr-6USuUj4_YIxNkIXFt-63gedurgSbXhXtENgzq9bRYH8pwGW-_iMo8pTqcbe0Vu5vBJ0czz6XFKPxNe2WNSYE45CrmHLBCGl1uFhE8kypOUBdVjPc56K39yPYwy9rGAzbFqOlF6ivTAfvsqUJw842esaZqimnu1JN3ROm0FdgdjMf4lNMT0yZCONjviAwv7hMJ7igcgN-qXMrtkAKWa6_G7oElsTSfDKTuidKDec9cXOP9KVA_ByXvnCR9A877w4ZbqJMU5LqSbJPSqLdGBVaRXuzOxH2PpZ6G2n6dDLojxPtmIIpPjVjosrHPqGe66UqfcS_2UapgaF3ord_X_kTDCE-iOC62JLNrS2UI8FxpN7MmLr0mkVJu226AULWXQUkPQcHIq-8BoJxLuaEpNeriYMb3cuNI1hWydmxJBrXn90aerRyhTnvI0PzPplKp-CX-d_uAji8K7Dljp6R7QwMAdgfmuUWMujy0SAJeqCQmdg2km4W9IOfw1sxu21vIXh2zriHJKkIQE0AGURnhHFLQuKi75I7IgqoVHhpKtqoZyD5Li4Kg6zC-krCgoQ-b7Yi9xhG62JoIWdWdGKnkHHGAgQIejhGhpv0knr_G-IP_CsIwG_6GCxyOBgchYWyM7sstv5UzWF5tJP57F-U7D-BcYryuZW3dd2hGxmFgCYCHTSBPFayvatp0_7O5LyU1avvU_GkH5WWQ15_ZnkBl4pxpSeIaa45moySMugBmfiObkE0lIBCRggWZcUmyK1SixMzg4Hz33aLYqdmronQMjCKSRJl6in2lN9LrwS9qziReuMLA4G5vX751fJudMJDzgVXArBONcvqbY2TG=w2507-h1075-no",
+        "image_src": "https://i.pinimg.com/originals/09/ce/1c/09ce1c08d491f9f54b1f4dd68028de7e.jpg",
         "body": "I was lucky to grow up in British Columbia - one of the best places for mountain biking. Now I am exploring what the Bay area has to offer when it comes to knarly decents.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      }
+    },
+
+    {
+      "full_article": {
+        "title": "Building this portfolio website",
+        "date_created": "July 10th 2022",
+        "image_src": "",
+        "body": "When working on my venture YDot, I ended up needing to build web apps quickly. I watched hours of youtube tutorials and read pages of documentation on React, Javascript and AWS. Since my old portfolio website is no longer being paid for by my school, I needed to make a new one. Why not put my skills to use? I wanted something clean and simple and couldn't find any good templates online - hence this website!",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
@@ -37,7 +47,7 @@
         "title": "Reading about economics, philosophy, and sci-fi",
         "date_created": "July 10th 2022",
         "image_src": "",
-        "body": "I am currently interested in economics, philosophy, and science fiction. The most impactful book I've read recently is 'The Beginning of Infinity' by David Deutsch.",
+        "body": "I am currently interested in economics, philosophy, and science fiction. The most impactful book I've read recently is 'The Beginning of Infinity' by David Deutsch. I am currently reading 'Microeconomics' by Jeffrey M Perloff.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     }
@@ -101,7 +111,7 @@
     {
       "full_article": {
         "tags": ["Internship"],
-        "title": "Form Energy - Mechanical Engineer",
+        "title": "Form Energy - Mechanical & Software Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://image.cnbcfm.com/api/v1/image/106931066-1629472634916-Form_Energy_Battery_System_Rendering.jpeg?v=1629472723",
         "body": "Identified bottlenecks in data analysis workflow then worked with scientists and engineers to create a central test database. Sped up workflow by 50%, allowing stakeholders to make better decisions faster.",

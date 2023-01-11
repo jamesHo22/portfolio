@@ -4,7 +4,7 @@
 I dive deep into problems and find joy in realizing solutions.
 
 ## Multidisciplinary
-Not everything is an engineering problem.
+Solving the problem comes first. I will work across teams to get the job done. 
 
 ## "Let's try it"
 

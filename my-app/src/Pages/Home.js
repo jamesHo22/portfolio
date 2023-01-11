@@ -16,7 +16,7 @@ export default function Home() {
           />
         </div>
         <div className=" italic text-slate-500">
-          <p>Effective across disciplines</p>
+          <p>Breadth in experiences and interests</p>
           <p>Depth in mechanical engineering</p>
         </div>
 
