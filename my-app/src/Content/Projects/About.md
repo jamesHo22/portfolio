@@ -4,7 +4,7 @@
 I dive deep into problems and find joy in realizing solutions.
 
 ## Multidisciplinary
-Solving the problem comes first. I will work across teams to get the job done. 
+Solving the problem comes first. I work across teams to get the job done. 
 
 ## "Let's try it"
 
