@@ -9,7 +9,7 @@ export default function Home() {
     <div>
       <div className="h-full min-h-screen flex flex-col items-center z-10">
         <div className="w-4/5 md:w-2/3 lg:w-3/5 mt-40 flex flex-col gap-12 xl:w-auto xl:h-auto 2xl:w-auto">
-          <div className="text-5xl md:text-7xl lg:text-7xl font-bold">
+          <div className="text-5xl md:text-7xl lg:text-7xl font-bold text-white">
             <TypeAnimation
               cursor={true}
               sequence={["JAMES HO"]}
@@ -17,12 +17,12 @@ export default function Home() {
               repeat={1}
             />
           </div>
-          <div className=" italic text-slate-500">
+          <div className=" italic text-slate-300">
             <p>Breadth in experiences and interests</p>
             <p>Depth in mechanical engineering</p>
           </div>
 
-          <div className="flex flex-col text gap-2">
+          <div className="flex flex-col text gap-2 text-white">
             {links.navLinks.map((obj) => {
               let path = `/${obj.toLowerCase()}`;
               return (
@@ -33,7 +33,7 @@ export default function Home() {
             })}
           </div>
 
-          <div className=" text-sm text-slate-500">
+          <div className=" text-sm text-slate-300">
             <p className=" underline">8.james.ho@gmail.com</p>
           </div>
         </div>
