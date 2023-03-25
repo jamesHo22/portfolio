@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import links from "../Navlinks/Navlinks.json";
 import TypeAnimation from "react-type-animation";
-import pfp from "../Media/landing_page_pfp.png";
+import pfp from "../Media/landing_page_pfp.jpg";
 
 export default function Home() {
   return (
