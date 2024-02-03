@@ -11,10 +11,10 @@ export default function ItemCard(props) {
     <div
       className="bg-white rounded-lg transition hover:shadow-lg hover:shadow-slate-500/50 h-fit lg:h-48 flex flex-col items-center lg:flex-row cursor-pointer"
       onClick={() => {
-        // Navigate to the correct path
-        // navigate(
-        //   `${location.pathname}/${String(props.content.full_article.title)}`
-        // );
+        let externalLink = props.content.full_article?.link;
+        if (externalLink !== undefined) {
+          window.location.href = externalLink;
+        }
       }}
     >
       <img

@@ -24,16 +24,6 @@
 
     {
       "full_article": {
-        "title": "Building this portfolio website",
-        "date_created": "July 10th 2022",
-        "image_src": "",
-        "body": "When working on my venture YDot, I ended up needing to build web apps quickly. I watched hours of youtube tutorials and read pages of documentation on React, Javascript and AWS. Since my old portfolio website is no longer being paid for by my school, I needed to make a new one. I wanted something clean and simple but couldn't find any good templates online - hence this website!",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-      }
-    },
-
-    {
-      "full_article": {
         "title": "Playing trombone",
         "date_created": "July 10th 2022",
         "image_src": "",
@@ -71,6 +61,7 @@
         "date_created": "July 10th 2022",
         "image_src": "https://i.pinimg.com/564x/3c/78/52/3c7852365b30c91c7da928114bf74d5f.jpg",
         "body": "YDot links all related data to a piece of hardware, starting with test engineering data. With YDot, engineers can leverage a single source of truth to make better and faster decisions.",
+        "link": "https://james-ho.notion.site/YDot-142fc192ccca40b4b3158755c67c5c4d?pvs=4",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },

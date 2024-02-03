@@ -18,7 +18,14 @@ export default function Projects() {
         <div className="flex flex-col gap-10 items-center">
           {filler.experience.map((obj) => {
             console.log(obj);
-            return <ItemCard content={obj} />;
+            return (
+              <ItemCard
+                content={obj}
+                onClick={() => {
+                  alert(obj.full_article?.link);
+                }}
+              />
+            );
           })}
         </div>
       </div>
