@@ -17,7 +17,7 @@
         "title": "Mountain biking",
         "date_created": "July 10th 2022",
         "image_src": "https://i.pinimg.com/originals/09/ce/1c/09ce1c08d491f9f54b1f4dd68028de7e.jpg",
-        "body": "I was lucky to grow up in British Columbia - one of the best places for mountain biking. Now I am exploring what the Bay area has to offer when it comes to knarly decents.",
+        "body": "I was lucky to grow up in British Columbia - one of the best places for mountain biking. Best places to ride around Vancouver: Vedder Mountain & Whistler Bike Park. Bucket list rides: The French Alps, Italy's Dolomites, and the Swiss Alps.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
@@ -27,7 +27,7 @@
         "title": "Playing trombone",
         "date_created": "July 10th 2022",
         "image_src": "",
-        "body": "Both my parents are professional musicians. As a result, I was exposed to classical music at an early age. I played violin for 10 years before I picked up the trombone. For all 5 years of high school, I played in the jazz band. We went on multiple trips and competed in various competitons. I now casually play with a group of friends and am exploring different kinds of music!",
+        "body": "Both my parents are professional musicians. As a result, I was exposed to classical music at an early age. I played violin for 10 years before I picked up the trombone. For all 5 years of high school, I played in the jazz band. We went on multiple trips and competed in various competitons. I now casually play with a group of friends!",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     }
@@ -35,28 +35,28 @@
   "experience": [
     {
       "full_article": {
-        "tags": ["Full time"],
+        "tags": ["Full time, March 2023 - Present"],
         "title": "Hermeus - Mechanical Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/b74d9c99-6267-470e-bfd0-e81fa2d8bc76/51359809295_f20f71d92f_o.jpg",
-        "body": "Building the world's fastest plane. Responsible for the development, manufacturing, and test of the nose landing gear for a reusable hypersonic vehicle.",
+        "body": "Building the world's fastest plane. I built the fuel system for Hermeus's hypersonic demonstrator aircraft, taking it from clean sheet to fully operational in less than 6 months. I'm now building a new plane every year.",
         "description": "pepe ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
     {
       "full_article": {
-        "tags": ["Full time"],
+        "tags": ["Full time, Aug 2022 - March 2023"],
         "title": "Tesla - Mechanical Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://www.graphicdesignforum.com/uploads/default/original/2X/b/b08e4bc28882a79951300637b7ead73d3ff9696e.png",
-        "body": "Led development of a safety critical test rig to validate vehicle underside impact performance.\nReduced test times by 80%, increased accuracy, and freed up time of one technician and one engineer.",
+        "body": "Led development of a safety critical test rig to validate vehicle underside impact performance.\nReduced test times by 80%, increased accuracy, and freed up technician resources.",
         "description": "pepe ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
 
     {
       "full_article": {
-        "tags": ["Venture"],
+        "tags": ["Venture, Sept 2021 - Aug 2022"],
         "title": "YDot - Founder and Software Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://i.pinimg.com/564x/3c/78/52/3c7852365b30c91c7da928114bf74d5f.jpg",
@@ -68,7 +68,7 @@
 
     {
       "full_article": {
-        "tags": ["Internship"],
+        "tags": ["Internship, May 2021 - Aug 2021"],
         "title": "Zoox - Mechanical Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://cdn.vox-cdn.com/thumbor/RiK5hHPuS9XSsi4GvaSfms4KFeE=/0x0:2800x1867/1400x1400/filters:focal(1400x934:1401x935)/cdn.vox-cdn.com/uploads/chorus_asset/file/22168905/zoox_robotaxi_0007.jpg",
@@ -79,7 +79,7 @@
 
     {
       "full_article": {
-        "tags": ["Internship"],
+        "tags": ["Internship, Jan 2021 - Apr 2021"],
         "title": "Hermeus - Mechanical Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/b74d9c99-6267-470e-bfd0-e81fa2d8bc76/51359809295_f20f71d92f_o.jpg",
@@ -90,7 +90,7 @@
 
     {
       "full_article": {
-        "tags": ["Internship"],
+        "tags": ["Internship, May 2020 - Aug 2020"],
         "title": "Uber ATG - CAE Mechanical Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://i.insider.com/5fce8693037cbd00186144fd?width=1136&format=jpeg",
@@ -101,7 +101,7 @@
 
     {
       "full_article": {
-        "tags": ["Internship"],
+        "tags": ["Internship, May 2019 - Aug 2019"],
         "title": "Form Energy - Mechanical & Software Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://image.cnbcfm.com/api/v1/image/106931066-1629472634916-Form_Energy_Battery_System_Rendering.jpeg?v=1629472723",
