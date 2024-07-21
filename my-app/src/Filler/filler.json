@@ -1,4 +1,48 @@
 {
+  "reading": [
+    {
+      "full_article": {
+        "title": "The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness",
+        "author": "John Yates",
+        "tags": ["Spirituality"],
+        "date_created": "July 21st, 2024",
+        "image_src": "",
+        "body": "One of my friends experienced seeing a bright light and a deep sense of joy during one of his meditation sessions. He had used this book to guide his meditation. Intrigued by his experience, I began meditating daily. \n\n Through meditation, I've learned: \n - That there is no concrete self, but a collection of mental processes each asking for your attention. \n - How to have a calm mind in the face of strong emotions. \n - Everything we understand is an abstraction of raw sensory information. \n\n I continue to meditate because I want to think clearly and better understand how my mind behaves."
+      }
+    },
+    {
+      "full_article": {
+        "title": "Sapiens & Homo Deus",
+        "author": "Yuval Noah Harari",
+        "tags": ["History"],
+        "date_created": "July 15th, 2024",
+        "image_src": "",
+        "body": ""
+      }
+    },
+    {
+      "full_article": {
+        "title": "The Checklist Manifesto",
+        "author": "Atul Gawande",
+        "tags": ["Management"],
+        "date_created": "July 15th, 2024",
+        "image_src": "",
+        "body": ""
+      }
+    },
+
+    {
+      "full_article": {
+        "title": "The Rational Manager",
+        "author": "Kepner, Tregoe",
+        "tags": ["Management"],
+        "date_created": "July 15th, 2024",
+        "image_src": "",
+        "body": ""
+      }
+    }
+  ],
+
   "ideas": [
     {
       "full_article": {

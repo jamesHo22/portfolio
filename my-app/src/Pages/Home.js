@@ -6,7 +6,7 @@ import pfp from "../Media/landing_page_pfp.jpg";
 
 export default function Home() {
   return (
-    <div className="h-full min-h-screen bg-white flex flex-col items-center flex">
+    <div className="font-serif h-full min-h-screen bg-white flex flex-col items-center flex">
       <div className="flex md:flex-row flex-col w-screen">
         <div className="">
           <img
