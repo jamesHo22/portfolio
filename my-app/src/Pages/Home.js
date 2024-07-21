@@ -26,8 +26,11 @@ export default function Home() {
             />
           </div>
           <div className=" italic text-slate-500">
-            <p>Breadth in experiences and interests</p>
-            <p>Depth in mechanical engineering</p>
+            <p>
+              Deeply interested in human development, the future of humanity,
+              and the role of technology
+            </p>
+            <p></p>
           </div>
 
           <div className="flex flex-col text gap-2">
