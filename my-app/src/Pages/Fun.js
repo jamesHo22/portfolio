@@ -6,7 +6,7 @@ import FunCard from "../Components/FunCard";
 
 export default function Fun() {
   return (
-    <div className="h-full min-h-screen bg-white flex flex-col items-center">
+    <div className="font-serif h-full min-h-screen bg-white flex flex-col items-center">
       <div className="w-4/5 lg:w-2/3 my-20">
         <TopNav />
       </div>
