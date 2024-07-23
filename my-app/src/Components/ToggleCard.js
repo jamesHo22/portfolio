@@ -12,8 +12,12 @@ export default function ToggleCard(props) {
     <div
       className="w-full bg-white rounded-lg transition hover:shadow-lg hover:shadow-slate-500/50 h-fit lg:h-fit flex flex-col lg:flex-row cursor-pointer"
       onClick={() => {
-        setToggleBody(!toggleBody);
-        console.log(props.mdContent);
+        if (props.content.full_article?.url) {
+          console.log("has URL");
+        } else {
+          setToggleBody(!toggleBody);
+          console.log(props.mdContent);
+        }
       }}
     >
       <div className="mx-4 lg:mx-8 my-4 flex flex-col text-ellipsis overflow-hidden gap-2 ">

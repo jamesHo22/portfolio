@@ -43,6 +43,20 @@
     }
   ],
 
+  "articles": [
+    {
+      "full_article": {
+        "title": "How Tomorrow’s Machines Will Be Built",
+        "author": "Reimagining the Hardware Development Toolchain",
+        "tags": ["Engineering"],
+        "date_created": "July 21st, 2024",
+        "image_src": "",
+        "body": "",
+        "url": "future-of-hardware"
+      }
+    }
+  ],
+
   "ideas": [
     {
       "full_article": {
