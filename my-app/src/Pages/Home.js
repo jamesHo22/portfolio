@@ -6,7 +6,7 @@ import pfp from "../Media/landing_page_pfp.jpg";
 
 export default function Home() {
   return (
-    <div className="font-serif h-full min-h-screen bg-white flex flex-col items-center flex">
+    <div className="font-serif h-full min-h-screen bg-white flex-col items-center flex">
       <div className="flex md:flex-row flex-col w-screen">
         <div className="">
           <img
@@ -16,7 +16,7 @@ export default function Home() {
           ></img>
         </div>
 
-        <div className="w-auto md:mt-40 lg:mt-40 flex flex-col gap-12 md:mx-8 lg:mx-auto m-16">
+        <div className="w-auto md:mt-40 lg:mt-40 flex flex-col gap-12 md:mx-8 xl:mx-auto m-16">
           <div className="text-5xl md:text-7xl lg:text-7xl font-bold">
             <TypeAnimation
               cursor={true}

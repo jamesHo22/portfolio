@@ -16,7 +16,7 @@ export default function TopNav() {
   //   lowercaseNavLinks.unshift(links.navLinks[removeId]);
 
   return (
-    <div className="py-2 px-4 flex flex-row text-sm gap-8 items-baseline transition overflow-x-auto overflow-y-hidden snap-mandatory snap-x">
+    <div className="py-2 px-4 flex flex-row text-sm gap-8 items-baseline transition overflow-x-auto overflow-y-hidden snap-mandatory snap-x lg:justify-center">
       {lowercaseNavLinks.map((obj) => {
         let path = `/${obj.toLowerCase()}`;
         let currentNavItem = obj.toLocaleLowerCase();
