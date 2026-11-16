@@ -33,7 +33,7 @@ export default function ToggleCard(props) {
             {props.content.full_article?.tags.map((obj) => {
               return (
                 <div>
-                  <span class="bg-sand text-ink text-xs font-medium mr-2 px-2.5 py-0.5">
+                  <span class="bg-sand text-stone-700 text-xs font-medium mr-2 px-2.5 py-0.5">
                     {obj}
                   </span>
                 </div>

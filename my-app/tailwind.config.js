@@ -7,7 +7,7 @@ module.exports = {
         "light-yellow": "#FEDD60",
         paper: "#F8F4EC",
         ink: "#2E2621",
-        sand: "#E8DCC4",
+        sand: "#F0E9DC",
       },
     },
   },
