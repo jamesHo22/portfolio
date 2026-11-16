@@ -96,7 +96,7 @@
         "tags": ["Full time | March 2023 - April 2026"],
         "title": "Hermeus - Mechanical Engineer II",
         "date_created": "July 10th 2022",
-        "image_src": "https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/b74d9c99-6267-470e-bfd0-e81fa2d8bc76/51359809295_f20f71d92f_o.jpg",
+        "image_src": "/images/hermeus_james.jpg",
         "body": "Building the world's fastest aircraft.\n- Responsible engineer for the vertical stabilizer on the Mk.2.1 supersonic vehicle\n- Responsible engineer for the fuel tanks on the Mk.1 subsonic vehicle\n- Responsible engineer for the fuel tanks on the Mk.0 test vehicle",
         "description": "pepe ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
@@ -139,8 +139,8 @@
         "tags": ["Internship | Jan 2021 - Apr 2021"],
         "title": "Hermeus - Mechanical Engineer",
         "date_created": "July 10th 2022",
-        "image_src": "https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/b74d9c99-6267-470e-bfd0-e81fa2d8bc76/51359809295_f20f71d92f_o.jpg",
-        "body": "- Responsible for development of in house landing gear test equipment from conception to physical product\n- Worked with the flight sciences team and referenced literature to define impact force requirements\n- Narrowed landing gear design space by building a transient model that predicts landing force given vehicle mass, descent velocity, and oleo damping ratio\n- Sized and analyzed test rig structures and bolted joints using hand calculations and FEA\n- Worked with manufacturers and suppliers to get parts delivered on tight timelines",
+        "image_src": "/images/hermeus_quarterhorse_flight.jpg",
+        "body": "Responsible for development of in house landing gear test equipment from conception to physical product. Saved company resources and increased design iteration cycle by eliminating dependence on external test facility.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },

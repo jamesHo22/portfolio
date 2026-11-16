@@ -12,7 +12,7 @@ export default function ItemCard(props) {
   return (
     <div
       className={
-        "bg-white rounded-lg transition h-fit lg:min-h-[12rem] flex flex-col items-center lg:flex-row cursor-pointer hover:shadow-lg hover:shadow-slate-500/50"
+        "bg-white rounded-lg transition h-fit lg:h-48 flex flex-col items-center lg:flex-row cursor-pointer hover:shadow-lg hover:shadow-slate-500/50"
       }
       onClick={() => {
         if (externalLink !== undefined) {
@@ -21,7 +21,7 @@ export default function ItemCard(props) {
       }}
     >
       <img
-        className="object-cover w-auto h-auto lg:w-48 lg:h-48 lg:shrink-0 lg:self-start rounded-md lg:rounded-lg"
+        className="object-cover w-auto h-auto lg:w-48 lg:h-48 lg:shrink-0 rounded-md lg:rounded-lg"
         src={props.content.full_article.image_src}
         alt="Logo"
       />
