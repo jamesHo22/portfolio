@@ -27,7 +27,7 @@ export default function ItemPage() {
   return (
     // <div>hello</div>
     <div className="font-serif h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-2/3 my-20 flex flex-col gap-20">
+      <div className="w-2/3 my-8 flex flex-col gap-10">
         <TopNav />
         <div className="mx-auto prose flex-col">
           {/* TODO: populate this from a database */}
