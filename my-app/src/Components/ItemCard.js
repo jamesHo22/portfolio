@@ -12,7 +12,10 @@ export default function ItemCard(props) {
   return (
     <div
       className={
-        "bg-paper transition h-fit lg:h-48 flex flex-col items-center lg:flex-row cursor-pointer hover:shadow-lg hover:shadow-stone-500/50"
+        "bg-paper transition h-fit lg:h-48 flex flex-col items-center lg:flex-row" +
+        (externalLink !== undefined
+          ? " cursor-pointer hover:shadow-lg hover:shadow-stone-500/50"
+          : "")
       }
       onClick={() => {
         if (externalLink !== undefined) {
@@ -35,7 +38,7 @@ export default function ItemCard(props) {
             {props.content.full_article?.tags.map((obj) => {
               return (
                 <div>
-                  <span class="bg-sand text-ink text-xs font-medium mr-2 px-2.5 py-0.5">
+                  <span class="bg-sand text-stone-700 text-xs font-medium mr-2 px-2.5 py-0.5">
                     {obj}
                   </span>
                 </div>
