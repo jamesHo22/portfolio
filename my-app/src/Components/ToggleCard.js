@@ -27,6 +27,11 @@ export default function ToggleCard(props) {
         <h1 className="text-l xl:text-2xl">
           {props.content.full_article.title}
         </h1>
+        {props.content.full_article.url && props.content.full_article.date_created ? (
+          <div className="text-xs text-stone-500">
+            {props.content.full_article.date_created}
+          </div>
+        ) : null}
         {/* Check if the tags field exists */}
         {props.content.full_article.tags ? (
           <div className="flex flex-row">
