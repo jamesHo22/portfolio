@@ -35,7 +35,7 @@ export default function ItemCard(props) {
             {props.content.full_article?.tags.map((obj) => {
               return (
                 <div>
-                  <span class="bg-stone-200 text-stone-800 text-xs font-medium mr-2 px-2.5 py-0.5">
+                  <span class="bg-sand text-ink text-xs font-medium mr-2 px-2.5 py-0.5">
                     {obj}
                   </span>
                 </div>
