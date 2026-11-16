@@ -2,7 +2,7 @@
 
 ## Expertise in hardware development, prototyping, and first principles thinking
 
-My experience at fast paced hardware startups has taught me how to develop complex hardware quickly. Having designed structural, fluid, and battery systems in the aerospace and automotive industries. I've learned how to effectively make engineering decisions that are aligned with company objectives. 
+My experience at fast paced hardware startups has taught me how to develop complex hardware quickly. Having designed structural, fluid, and battery systems in the aerospace and automotive industries, I've learned how to effectively make engineering decisions that are aligned with company objectives. 
 
 ## Experience in software development and product design
 
