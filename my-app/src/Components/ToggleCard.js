@@ -10,7 +10,7 @@ export default function ToggleCard(props) {
 
   return (
     <div
-      className="w-full bg-paper rounded-lg transition hover:shadow-lg hover:shadow-stone-500/50 h-fit lg:h-fit flex flex-col lg:flex-row cursor-pointer"
+      className="w-full bg-paper transition hover:shadow-lg hover:shadow-stone-500/50 h-fit lg:h-fit flex flex-col lg:flex-row cursor-pointer"
       onClick={() => {
         if (props.content.full_article?.url) {
           console.log("has URL");
@@ -33,7 +33,7 @@ export default function ToggleCard(props) {
             {props.content.full_article?.tags.map((obj) => {
               return (
                 <div>
-                  <span class="bg-stone-200 text-stone-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full ">
+                  <span class="bg-stone-200 text-stone-800 text-xs font-medium mr-2 px-2.5 py-0.5">
                     {obj}
                   </span>
                 </div>
