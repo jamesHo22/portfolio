@@ -6,4 +6,13 @@
   body {
     @apply bg-paper text-ink;
   }
+
+  * {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  *::-webkit-scrollbar {
+    display: none;
+  }
 }
