@@ -5,7 +5,7 @@ import ItemCard from "../Components/ItemCard";
 
 export default function Ideas() {
   return (
-    <div className="h-full min-h-screen bg-white flex flex-col items-center">
+    <div className="h-full min-h-screen bg-paper flex flex-col items-center">
       <div className="w-2/3 my-8 flex flex-col gap-10">
         <TopNav />
         {filler.ideas.map((obj) => {
