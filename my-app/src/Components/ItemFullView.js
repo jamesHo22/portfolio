@@ -5,10 +5,10 @@ export default function ItemFullView() {
   const [title, setTitle] = useState("");
 
   return (
-    <div className="bg-white rounded-lg p-24 flex flex-col gap-12">
+    <div className="bg-paper p-24 flex flex-col gap-12">
       <div className="flex flex-row  gap-8 ">
         <img
-          className=" object-cover w-40 h-40 rounded"
+          className=" object-cover w-40 h-40"
           src={filler.ideas[0].full_article.image_src}
           alt="Logo"
         />

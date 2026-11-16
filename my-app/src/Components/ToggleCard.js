@@ -10,7 +10,7 @@ export default function ToggleCard(props) {
 
   return (
     <div
-      className="w-full bg-white rounded-lg transition hover:shadow-lg hover:shadow-slate-500/50 h-fit lg:h-fit flex flex-col lg:flex-row cursor-pointer"
+      className="w-full bg-paper transition hover:shadow-lg hover:shadow-stone-500/50 h-fit lg:h-fit flex flex-col lg:flex-row cursor-pointer"
       onClick={() => {
         if (props.content.full_article?.url) {
           console.log("has URL");
@@ -21,19 +21,24 @@ export default function ToggleCard(props) {
       }}
     >
       <div className="mx-4 lg:mx-8 my-4 flex flex-col text-ellipsis overflow-hidden gap-2 ">
-        <div className="text-xs italic text-gray-600">
+        <div className="text-xs italic text-stone-600">
           {props.content.full_article.author}
         </div>
         <h1 className="text-l xl:text-2xl">
           {props.content.full_article.title}
         </h1>
+        {props.content.full_article.url && props.content.full_article.date_created ? (
+          <div className="text-xs text-stone-500">
+            {props.content.full_article.date_created}
+          </div>
+        ) : null}
         {/* Check if the tags field exists */}
         {props.content.full_article.tags ? (
           <div className="flex flex-row">
             {props.content.full_article?.tags.map((obj) => {
               return (
                 <div>
-                  <span class="bg-gray-100 text-gray-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full ">
+                  <span class="bg-sand text-stone-700 text-xs font-medium mr-2 px-2.5 py-0.5">
                     {obj}
                   </span>
                 </div>
@@ -45,7 +50,7 @@ export default function ToggleCard(props) {
         )}
 
         {toggleBody ? (
-          <div className="prose text-sm max-w-none my-4">
+          <div className="prose prose-stone text-sm max-w-none my-4">
             <ReactMarkdown>{props.content.full_article.body}</ReactMarkdown>
           </div>
         ) : (

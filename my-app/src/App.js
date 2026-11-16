@@ -10,7 +10,6 @@ import Ideas from "./Pages/Ideas";
 import SignIn from "./Pages/SignIn";
 import { useState } from "react";
 import NewArticle from "./Pages/NewArticle";
-import Reading from "./Pages/Reading";
 import Articles from "./Pages/Articles";
 
 function App() {
@@ -28,7 +27,6 @@ function App() {
         <Route path="/fun" element={<Fun />} />
         <Route path="/new-article" element={<NewArticle />} />
         <Route path="/resume" />
-        <Route path="/reading" element={<Reading />} />
         <Route path="/Articles" element={<Articles />} />
         <Route path="/Articles/:articleName" element={<ItemPage />} />
       </Routes>

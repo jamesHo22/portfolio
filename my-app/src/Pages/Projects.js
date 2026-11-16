@@ -9,13 +9,13 @@ import { useNavigate } from "react-router-dom";
 export default function Projects() {
   const navigate = useNavigate();
   return (
-    <div className="font-serif h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-4/5 lg:w-2/3 my-20">
+    <div className="font-serif h-full min-h-screen bg-paper flex flex-col items-center">
+      <div className="w-4/5 lg:w-2/3 my-8">
         <TopNav />
       </div>
 
       <div className="w-4/5 lg:w-2/3 xl:w-2/3 2xl:w-[60rem] mb-20 flex flex-col gap-20">
-        <div className="flex flex-col gap-10 items-center">
+        <div className="flex flex-col gap-10 items-stretch">
           {filler.experience.map((obj) => {
             console.log(obj);
             return (

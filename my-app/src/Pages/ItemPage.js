@@ -26,10 +26,10 @@ export default function ItemPage() {
   console.log(params); // "hotspur"
   return (
     // <div>hello</div>
-    <div className="font-serif h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-2/3 my-20 flex flex-col gap-20">
+    <div className="font-serif h-full min-h-screen bg-paper flex flex-col items-center">
+      <div className="w-2/3 my-8 flex flex-col gap-10">
         <TopNav />
-        <div className="mx-auto prose flex-col">
+        <div className="mx-auto prose prose-stone flex-col">
           {/* TODO: populate this from a database */}
           <ReactMarkdown>{content}</ReactMarkdown>
         </div>

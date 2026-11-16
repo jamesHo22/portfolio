@@ -49,7 +49,7 @@
         "title": "How Tomorrow’s Machines Will Be Built",
         "author": "Reimagining the Hardware Development Toolchain",
         "tags": ["Engineering"],
-        "date_created": "July 21st, 2024",
+        "date_created": "December 10, 2023",
         "image_src": "",
         "body": "",
         "url": "future-of-hardware"
@@ -93,11 +93,11 @@
   "experience": [
     {
       "full_article": {
-        "tags": ["Full time | March 2023 - Present"],
-        "title": "Hermeus - Mechanical Engineer",
+        "tags": ["Full time | March 2023 - April 2026"],
+        "title": "Hermeus - Mechanical Engineer II",
         "date_created": "July 10th 2022",
-        "image_src": "https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/b74d9c99-6267-470e-bfd0-e81fa2d8bc76/51359809295_f20f71d92f_o.jpg",
-        "body": "Building the world's fastest plane. I built the fuel system for Hermeus's hypersonic demonstrator aircraft, taking it from clean sheet to fully operational in less than 6 months. I'm now building a new plane every year.",
+        "image_src": "/images/hermeus_james.jpg",
+        "body": "Building the world's fastest aircraft.\n- Responsible engineer for the vertical stabilizer on the Mk.2.1 supersonic vehicle\n- Responsible engineer for the fuel tanks on the Mk.1 subsonic vehicle\n- Responsible engineer for the fuel tanks on the Mk.0 test vehicle",
         "description": "pepe ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
@@ -115,11 +115,10 @@
     {
       "full_article": {
         "tags": ["Venture | Sept 2021 - Aug 2022"],
-        "title": "YDot - Founder and Software Engineer",
+        "title": "YDot - Co-Founder & Software Lead",
         "date_created": "July 10th 2022",
         "image_src": "https://i.pinimg.com/564x/3c/78/52/3c7852365b30c91c7da928114bf74d5f.jpg",
         "body": "YDot links all related data to a piece of hardware, starting with test engineering data. With YDot, engineers can leverage a single source of truth to make better and faster decisions.",
-        "link": "https://james-ho.notion.site/YDot-142fc192ccca40b4b3158755c67c5c4d?pvs=4",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
     },
@@ -140,7 +139,7 @@
         "tags": ["Internship | Jan 2021 - Apr 2021"],
         "title": "Hermeus - Mechanical Engineer",
         "date_created": "July 10th 2022",
-        "image_src": "https://images.squarespace-cdn.com/content/v1/6068d7e274bb870d758315f9/b74d9c99-6267-470e-bfd0-e81fa2d8bc76/51359809295_f20f71d92f_o.jpg",
+        "image_src": "/images/hermeus_quarterhorse_flight.jpg",
         "body": "Responsible for development of in house landing gear test equipment from conception to physical product. Saved company resources and increased design iteration cycle by eliminating dependence on external test facility.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
@@ -149,7 +148,7 @@
     {
       "full_article": {
         "tags": ["Internship | May 2020 - Aug 2020"],
-        "title": "Uber ATG - CAE Mechanical Engineer",
+        "title": "Uber - Mechanical Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://i.insider.com/5fce8693037cbd00186144fd?width=1136&format=jpeg",
         "body": "Responsible for validating reliability and crash safety of autonomy sensor pods through thermal and structural simulations in FEA.",
@@ -162,7 +161,7 @@
         "tags": ["Internship | May 2019 - Aug 2019"],
         "title": "Form Energy - Mechanical & Software Engineer",
         "date_created": "July 10th 2022",
-        "image_src": "https://image.cnbcfm.com/api/v1/image/106931066-1629472634916-Form_Energy_Battery_System_Rendering.jpeg?v=1629472723",
+        "image_src": "/images/form_energy.jpg",
         "body": "Identified bottlenecks in data analysis workflow then worked with scientists and engineers to create a central test database. Sped up workflow by 50%, allowing stakeholders to make better decisions faster.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       }
@@ -170,7 +169,7 @@
 
     {
       "full_article": {
-        "tags": ["Collegiate team"],
+        "tags": ["Collegiate team | Aug 2019 - Aug 2022"],
         "title": "Olin Electric Motorsports - Battery Engineer",
         "date_created": "July 10th 2022",
         "image_src": "https://cdn.myportfolio.com/4dfc7722-5604-4718-9f53-112c34422ce0/04968398-3fb5-4ceb-8f73-feb27e36aa60_rw_3840.jpg?h=fdcb325096ef749ae35ca0ab85d0ebad",

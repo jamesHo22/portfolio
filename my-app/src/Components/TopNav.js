@@ -25,7 +25,7 @@ export default function TopNav() {
             <nav className="snap-start">
               <Link
                 to={path}
-                className="text-5xl lg:text-7xl font-bold capitalize"
+                className="text-4xl lg:text-6xl font-bold capitalize"
               >
                 {String(obj)}
               </Link>

@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import TopNav from "../Components/TopNav";
 import about from "../Content/Projects/About.md";
-import launch from "../Media/launch.gif";
+import banner from "../Media/about_banner.jpg";
 
 export default function About() {
   let [content, setContent] = useState("");
@@ -21,20 +21,21 @@ export default function About() {
   }, []);
 
   return (
-    <div className="font-serif h-full min-h-screen bg-white flex flex-col items-center">
-      <div className="w-4/5 lg:w-2/3 my-20">
+    <div className="font-serif h-full min-h-screen bg-paper flex flex-col items-center">
+      <div className="w-4/5 lg:w-2/3 my-8">
         <TopNav />
       </div>
 
-      <div className="prose mb-16 mx-8 lg:mx-16">
-        <img
-          className="object-cover w-24 h-24 lg:w-32 lg:h-32 rounded-md lg:rounded-lg"
-          src={launch}
-          alt="Logo"
-        />
+      <img
+        className="w-full h-auto mb-12"
+        src={banner}
+        alt="James with the Hermeus team in front of the Quarterhorse aircraft"
+      />
+
+      <div className="prose prose-stone mb-16 mx-8 lg:mx-16">
         <ReactMarkdown>{content}</ReactMarkdown>
 
-        <div className=" text-sm text-slate-500 my-10">
+        <div className=" text-sm text-stone-500 my-10">
           <p className=" underline">8.james.ho@gmail.com</p>
         </div>
       </div>

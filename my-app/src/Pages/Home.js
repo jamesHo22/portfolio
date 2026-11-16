@@ -6,7 +6,7 @@ import pfp from "../Media/landing_page_pfp.jpg";
 
 export default function Home() {
   return (
-    <div className="font-serif h-full min-h-screen bg-white flex-col items-center flex">
+    <div className="font-serif h-full min-h-screen bg-paper flex-col items-center flex">
       <div className="flex md:flex-row flex-col w-screen">
         <div className="">
           <img
@@ -25,7 +25,7 @@ export default function Home() {
               repeat={1}
             />
           </div>
-          <div className=" italic text-slate-500">
+          <div className=" italic text-stone-500">
             <p>
               Deeply interested in human development, the future of humanity,
               and the role of technology
@@ -44,7 +44,7 @@ export default function Home() {
             })}
           </div>
 
-          <div className=" text-sm text-slate-500">
+          <div className=" text-sm text-stone-500">
             <p className=" underline">8.james.ho@gmail.com</p>
           </div>
         </div>
